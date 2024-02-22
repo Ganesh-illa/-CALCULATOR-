@@ -1,0 +1,19 @@
+table{
+    border-radius: 10px;
+}
+body{
+    background-image: url(pngtree-flash-geometric-plane-abstract-technology-sensation-effect-background-image_606347.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+#result{
+    border-radius: 20px;
+    background-color:linen
+}
+button:hover{
+    background-color: lightgoldenrodyellow;
+}
+h2{
+    background-color: aliceblue;
+    border-radius: 1000px;
+}
